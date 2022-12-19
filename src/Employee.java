@@ -16,6 +16,10 @@ public class Employee extends Worker{
 
     }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 792b26d (implemented SalariedEmployee)
     public Long getEmployeeId() {
         return employeeId;
     }
